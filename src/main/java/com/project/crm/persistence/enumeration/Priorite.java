@@ -3,7 +3,7 @@ package com.project.crm.persistence.enumeration;
 public enum Priorite {
     Faible("Faible"),
     Moyenne("Moyenne"),
-    élevée("élevée");
+    Élevée("Élevée");
 
     private final String frenchTranslation;
 
